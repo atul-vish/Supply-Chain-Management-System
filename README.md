@@ -18,3 +18,5 @@ To create a transparent, tamper-proof supply chain solution that enhances accoun
 - NFT-based product certification
 - Multi-chain compatibility for broader adoption
 - Supplier rating system using decentralized oracles
+
+![image](https://github.com/user-attachments/assets/ac50270a-9076-4da9-90cb-7b3ea7855033)
